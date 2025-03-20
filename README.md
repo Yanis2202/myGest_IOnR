@@ -39,15 +39,21 @@ La première partie du projet "Gestion du parc informatique", permet de gérer l
     * Le système affiche alors les informations actuelles de cet équipement (ex : nom, adresse MAC, adresse IP, masque, type).
     * L'utilisateur dois ensuite saisir les nouvelles informations qu'il souhaite (si l'utilisateur ne souhaite pas modifier un champ, il le laisse vide).
     * Un message de confirmation est affiché une fois les informations de l'équipement mises à jour dans la base de données.
+
       
 ‎ 
+* **Les choses que j'ai réalisées dans cette partie 1 sont :**
+  ‎ 
 
-[**<ins>**Les choses que j'ai réalisées dans cette partie 1 sont :**</ins>**]
 
 * **Consultation des données** : J'ai créer le script "affiche.sh" permettant d'interroger la base de données et d'afficher les informations des équipements selon l'option choisie par l'utilisateur.
+  ‎ 
 * **Ajout de données** : J'ai créé un second script "ajout.sh" qui permet de saisir les informations d'un nouvel équipement et de les insérer dans la base de données.
+  ‎ 
 * **Suppression de données** : J'en ai ajouté un autre "supp.sh" qui permet de supprimer un une donnée de la base de données en fonction de l'ID de l'équipement.
+  ‎ 
 * **Modification de donnée** : Enfin j'en ai créer un dernier "modif.sh" qui permet de sélectionner un équipement par son ID, et de permettre à l'utilisateur de modifier ce qu'il souhaite.
+  ‎ 
 
   ‎ ‎ 
 
@@ -60,12 +66,15 @@ Voici quelques captures d'écran des script montrant les fonctionnalités que j'
 *Script de consultation des données affichant la liste des équipements appelé "affiche.sh".*
 
 ![image](https://github.com/user-attachments/assets/be7e087c-2cff-4e1d-8000-b80c873a189b)
+‎ 
 *Le formulaire de saisie des informations pour ajouter un nouvel équipement.*
 
 ![image](https://github.com/user-attachments/assets/cf926523-80e7-4560-8949-6934adc3346c)
+‎ 
 *La confirmation de la suppression d'un équipement après avoir entré son ID.*
 
 ![image](https://github.com/user-attachments/assets/e715f736-a6d3-4cbb-bdde-a843b3b5614d)
+‎ 
 *L'interface permettant de modifier les informations d'un équipement existant.*
 
 ‎ ‎ 
