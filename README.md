@@ -10,20 +10,30 @@ Ce document contient des informations sur la partie 1 du projet que j'ai réalis
 
 La première partie du projet "Gestion du parc informatique", permet de gérer l'inventaire des équipements de l'entreprise. Il se constitue des éléments suivant :
 
-* **Consulter les données** : Permet à l'utilisateurs d'afficher les informations des équipements enregistrés dans la base de données MyGest. elle peux :
+* **Consulter les données** : Permet à l'utilisateur d'afficher les informations des équipements enregistrés dans la base de données MyGest. elle peux :
     * Afficher toutes les informations.
     * Afficher uniquement les machines.
     * Afficher uniquement les serveurs.
     * Afficher uniquement les switchs.
       
-* **Ajouter des données** : Permet aux utilisateurs d'ajouter des équipements dans l'inventaire. Les informations nécessaire pour ajouter un équipement sont :
-*  son adresse MAC,
-*  son adresse IP,
-*  son masque de sous-réseau (CIDR)
-*  son type (machine, serveur ou switch).
+* **Ajouter des données** : Permet a utilisateur d'ajouter des équipements dans l'inventaire. Les informations nécessaire pour ajouter un équipement sont :
+*  son adresse MAC (ex :00:1B:44:11:3A:B7).
+*  son adresse IP (ex :192.168.16.24).
+*  son masque de sous-réseau (ex :255.255.255.0).
+*  son type (ex: machine, serveur ou switch).
   
-* **Supprimer des données** : Permet aux utilisateurs de supprimer un équipement de l'inventaire en spécifiant son identifiant unique (ID).
-* **Modifier des données** : Permet aux utilisateurs de modifier les informations d'un équipement existant dans l'inventaire en spécifiant son ID. Les informations modifiables sont le nom, l'adresse MAC, l'adresse IP, le masque de sous-réseau (CIDR) et le type.
+* **Supprimer des données** : Permet a utilisateur de supprimer un équipement de l'inventaire comme ceci :
+   * Entrer l'ID de l'équipement qu'il souhaite supprimer.
+   * Le système affiche alors l'équipement qu'il a trouvé dans la base de donnée pour que l'utilisateur puisse le vérifier.
+   * Une confirmation de suppression est demandée à l'utilisateur (en entrant 'y' pour oui ou 'n' pour non).
+   * Si l'utilisateur confirme, l'équipement est supprimé de la base de données et un message de validation est affiché. Si l'utilisateur annule, aucune suppression n'est effectuée et un message d'annulation est affiché.
+
+* **Modifier des données** : Permet aux utilisateurs de modifier les informations d'un équipement existant dans l'inventaire. Le processus de modification se déroule comme cela :
+    * Entrer l'ID de l'équipement qu'il souhaite modifier.
+    * Le système affiche alors les informations actuelles de cet équipement (ex : nom, adresse MAC, adresse IP, masque, type).
+    * L'utilisateur dois ensuite saisir les nouvelles informations qu'il souhaite (si l'utilisateur ne souhaite pas modifier un champ, il le laisse vide).
+    * Un message de confirmation est affiché une fois les informations de l'équipement mises à jour dans la base de données.
+      
 
 Les fonctionnalités que j'ai réalisées personnellement dans cette partie sont :
 
