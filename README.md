@@ -10,12 +10,18 @@ Ce document contient des informations sur la partie 1 du projet que j'ai réalis
 
 La première partie du projet "Gestion du parc informatique", permet de gérer l'inventaire des équipements de l'entreprise. Il se constitue des éléments suivant :
 
-* **Consulter les données** : Permet aux utilisateurs d'afficher les informations des équipements enregistrés dans la base de données MyGest. Il offre différentes options de consultation :
+* **Consulter les données** : Permet à l'utilisateurs d'afficher les informations des équipements enregistrés dans la base de données MyGest. elle peux :
     * Afficher toutes les informations.
     * Afficher uniquement les machines.
     * Afficher uniquement les serveurs.
     * Afficher uniquement les switchs.
-* **Ajouter des données** : Permet aux utilisateurs d'ajouter de nouveaux équipements à l'inventaire. Les informations requises pour l'ajout sont le nom de l'équipement, son adresse MAC, son adresse IP, son masque de sous-réseau (CIDR) et son type (machine, serveur ou switch).
+      
+* **Ajouter des données** : Permet aux utilisateurs d'ajouter des équipements dans l'inventaire. Les informations nécessaire pour ajouter un équipement sont :
+*  son adresse MAC,
+*  son adresse IP,
+*  son masque de sous-réseau (CIDR)
+*  son type (machine, serveur ou switch).
+  
 * **Supprimer des données** : Permet aux utilisateurs de supprimer un équipement de l'inventaire en spécifiant son identifiant unique (ID).
 * **Modifier des données** : Permet aux utilisateurs de modifier les informations d'un équipement existant dans l'inventaire en spécifiant son ID. Les informations modifiables sont le nom, l'adresse MAC, l'adresse IP, le masque de sous-réseau (CIDR) et le type.
 
