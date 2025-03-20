@@ -19,10 +19,10 @@ La première partie du projet "Gestion du parc informatique", permet de gérer l
 ‎ ‎ ‎ 
 
 * **Ajouter des données** : Permet a utilisateur d'ajouter des équipements dans l'inventaire. Les informations nécessaire pour ajouter un équipement sont :
-*  son adresse MAC (ex :00:1B:44:11:3A:B7).
-*  son adresse IP (ex :192.168.16.24).
-*  son masque de sous-réseau (ex :255.255.255.0).
-*  son type (ex: machine, serveur ou switch).
+    *  son adresse MAC (ex :00:1B:44:11:3A:B7).
+    *  son adresse IP (ex :192.168.16.24).
+    *  son masque de sous-réseau (ex :255.255.255.0).
+    *  son type (ex: machine, serveur ou switch).
 
   ‎ ‎ 
   
