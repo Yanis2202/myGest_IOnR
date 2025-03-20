@@ -8,7 +8,7 @@ Ce document contient des informations sur la partie 1 du projet que j'ai réalis
 
 ## 2) Détails des fonctionnalités
 
-La première partie du projet "Gestion du parc informatique", permet de gérer l'inventaire des équipements de l'entreprise. Il se constitue des éléments suivant :
+La première partie du projet "Gestion du parc informatique", permet de gérer l'inventaire des équipements de l'entreprise. Elle se constitue des éléments suivant :
 
 * **Consulter les données** : Permet à l'utilisateur d'afficher les informations des équipements enregistrés dans la base de données MyGest. elle peux :
     * Afficher toutes les informations.
@@ -35,40 +35,33 @@ La première partie du projet "Gestion du parc informatique", permet de gérer l
     * Un message de confirmation est affiché une fois les informations de l'équipement mises à jour dans la base de données.
       
 
-Les fonctionnalités que j'ai réalisées personnellement dans cette partie sont :
+[**<ins>**Les choses que j'ai réalisées seul dans cette partie 1 sont :**</ins>**]
 
-* **[**<ins>**Consultation des données**</ins>**]** : J'ai développé le script permettant d'interroger la base de données et d'afficher les informations des équipements selon les différentes options proposées.
-* **[**<ins>**Ajout de données**</ins>**]** : J'ai créé le formulaire en ligne de commande qui permet de saisir les informations d'un nouvel équipement et de les insérer dans la base de données.
-* **[**<ins>**Suppression de données**</ins>**]** : J'ai implémenté la fonctionnalité qui permet de supprimer un enregistrement de la base de données en fonction de l'ID de l'équipement.
-* **[**<ins>**Modification de données**</ins>**]** : J'ai développé le processus qui permet de sélectionner un équipement par son ID, d'afficher ses informations actuelles et de permettre à l'utilisateur de modifier les champs souhaités avant de mettre à jour la base de données.
+* **Consultation des données** : J'ai créer le script permettant d'interroger la base de données et d'afficher les informations des équipements selon l'option choisie par l'utilisateur.
+* **Ajout de données** : J'ai créé un second script qui permet de saisir les informations d'un nouvel équipement et de les insérer dans la base de données.
+* **Suppression de données** : J'ai ajouté une fonctionnalité qui permet de supprimer un une donnée de la base de données en fonction de l'ID de l'équipement.
+* **Modification de donnée** : J'ai mis en place un processus qui permet de sélectionner un équipement par son ID, et de permettre à l'utilisateur de modifier ce qu'il souhaite.
 
-## 3) Mes réalisations
+## 3) La preuve en images : 
 
-Voici quelques captures d'écran illustrant les fonctionnalités que j'ai développées dans la partie "Gestion du parc" :
+Voici quelques captures d'écran des script montrant les fonctionnalités que j'ai développées dans la partie "Gestion du parc" :
 
-![Capture d'écran de la consultation des données](lien_vers_votre_capture_consultation.png)
-*L'interface de consultation des données affichant la liste des équipements.*
+![image](https://github.com/user-attachments/assets/1b4c3122-7f6b-4dac-9450-8e7b1548a293)
 
-![Capture d'écran de l'ajout d'un équipement](lien_vers_votre_capture_ajout.png)
+*Script de consultation des données affichant la liste des équipements appelé "affiche.sh".*
+
+![image](https://github.com/user-attachments/assets/be7e087c-2cff-4e1d-8000-b80c873a189b)
 *Le formulaire de saisie des informations pour ajouter un nouvel équipement.*
 
-![Capture d'écran de la suppression d'un équipement](lien_vers_votre_capture_suppression.png)
+![image](https://github.com/user-attachments/assets/cf926523-80e7-4560-8949-6934adc3346c)
 *La confirmation de la suppression d'un équipement après avoir entré son ID.*
 
-![Capture d'écran de la modification d'un équipement](lien_vers_votre_capture_modification.png)
+![image](https://github.com/user-attachments/assets/e715f736-a6d3-4cbb-bdde-a843b3b5614d)
 *L'interface permettant de modifier les informations d'un équipement existant.*
 
-**(Note :** Veuillez remplacer les `lien_vers_votre_capture_...png` par les chemins d'accès réels aux captures d'écran que vous téléverserez dans votre dépôt GitHub. Pour cela, une fois les images téléversées, vous pourrez généralement cliquer dessus sur GitHub pour obtenir leur URL ou utiliser un chemin relatif si elles sont dans le même répertoire que le `README.md` ou dans un sous-répertoire.)
+## 4) Vidéo explicative : 
+LIEN VIDEO A METTRE
 
-## 4) Démonstration technique
+Cette vidéo présente une démonstration des fonctionnalités de la partie "Gestion du parc" que j'ai réalisées. J'y explique un peu plus en détaille à quoi servent chaque éléments qui sont mis dans les scripts.
 
-[Insérer ici le lien vers votre vidéo de présentation technique (voir Mission 2)]
-
-Cette vidéo présente une démonstration des fonctionnalités de la partie "Gestion du parc" que j'ai réalisées. J'y montre comment consulter, ajouter, supprimer et modifier les informations des équipements dans la base de données MyGest.
-
-## 5) Sources
-
-* Le code source de la partie "Gestion du parc" est disponible dans ce dépôt GitHub. Il comprend les scripts Bash permettant d'interagir avec la base de données.
-* Le fichier de base de données MySQL (`myGestI0nR.sql`) utilisé pour cette partie est également inclus dans ce dépôt.
-
----
+---___---  ** MERCI POUR VOTRE ATTENTION ! ** ---___---
