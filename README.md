@@ -67,20 +67,20 @@ Voici quelques captures d'écran des script montrant les fonctionnalités que j'
 
 ![image](https://github.com/user-attachments/assets/be7e087c-2cff-4e1d-8000-b80c873a189b)
 ‎ 
-*Le formulaire de saisie des informations pour ajouter un nouvel équipement.*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ *Le formulaire de saisie des informations pour ajouter un nouvel équipement.*
 
 ![image](https://github.com/user-attachments/assets/cf926523-80e7-4560-8949-6934adc3346c)
 ‎ 
-*La confirmation de la suppression d'un équipement après avoir entré son ID.*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ *La confirmation de la suppression d'un équipement après avoir entré son ID.*
 
 ![image](https://github.com/user-attachments/assets/e715f736-a6d3-4cbb-bdde-a843b3b5614d)
 ‎ 
-*L'interface permettant de modifier les informations d'un équipement existant.*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎*L'interface permettant de modifier les informations d'un équipement existant.*
 
 ‎ ‎ 
 
-## 4) Vidéo explicative : 
-LIEN VIDEO A METTRE
+## 4) Vidéo explicative (lien vers la vidéo) : 
+https://drive.google.com/file/d/1hGw0p5QDpQvXxmXcTOgdv_EVkyh_Z_Ku/view?usp=sharing
 
 Cette vidéo présente une démonstration des fonctionnalités de la partie "Gestion du parc" que j'ai réalisées. J'y explique un peu plus en détaille à quoi servent chaque éléments qui sont mis dans les scripts.
 
