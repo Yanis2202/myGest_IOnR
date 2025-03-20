@@ -8,7 +8,7 @@ Ce document contient des informations sur la partie 1 du projet que j'ai réalis
 
 ## 2) Détails des fonctionnalités
 
-La partie 1 du projet, **Gestion du parc informatique**, permet de gérer l'inventaire des équipements. Les fonctionnalités implémentées dans cette partie sont les suivantes :
+La première partie du projet "Gestion du parc informatique", permet de gérer l'inventaire des équipements de l'entreprise. Il se constitue des éléments suivant :
 
 * **Consulter les données** : Permet aux utilisateurs d'afficher les informations des équipements enregistrés dans la base de données MyGest. Il offre différentes options de consultation :
     * Afficher toutes les informations.
